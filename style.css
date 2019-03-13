@@ -58,3 +58,13 @@ img {
     widows: auto;
     height: auto;
 }
+p {
+    text-align: center;
+}
+#sleepless {
+    width: 100px;
+    height: 100px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
