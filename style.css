@@ -47,7 +47,14 @@ img {
 }
 #night {
     text-align: right;
+    text-shadow: 2px 1px snow;
 }
 #rain {
     text-align: left;
+    text-shadow: 2px 1px snow;
+}
+#star {
+    float: right;
+    widows: auto;
+    height: auto;
 }
