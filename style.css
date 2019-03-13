@@ -1,3 +1,37 @@
 body {
-    background: indigo
+    background: indigo;
+}
+#navigation {
+    text-align: center;
+}
+a:link {
+    background-color: lemonchiffon;
+}
+a:visited {
+    background-color: rgb(46, 26, 94);
+}
+
+a:hover {
+    background-color: blueviolet;
+}
+a:active {
+    color:lemonchiffon;
+}
+a {
+    background-color: rgb(46, 26, 94);
+    font-size: 30px;
+    font-family: sans-serif;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+    
+h1 {
+    font-family: fantasy;
+    text-align: center;
+
+
+}
+hr {
+    color: black;
 }
