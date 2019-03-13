@@ -35,3 +35,19 @@ h1 {
 hr {
     color: black;
 }
+#img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 60%;
+}
+img {
+    width: 307px;
+    height: 307px;
+}
+#night {
+    text-align: right;
+}
+#rain {
+    text-align: left;
+}
